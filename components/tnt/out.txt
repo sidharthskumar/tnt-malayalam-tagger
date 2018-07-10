@@ -1,0 +1,31 @@
+%% TnT statistically tagged file, Tue Jul 10 12:12:31 2018
+%% lexicon     : mal.lex
+%% ngrams      : mal.123
+%% corpus      : mod.txt
+%% model       : trigrams
+%% sparse data : linear interpolation
+%%   lambda1 = 2.432866e-01   lambda2 = 2.538139e-01   lambda3 = 5.028995e-01
+%% unknown mode: statistics of singletons
+%% case of characters is significant
+%% using suffix trie up to length 10
+%% suffix backoff with theta = 1.435013e-01
+%% Thorsten Brants, thorsten@brants.net
+അവിടെ		N_NST
+ഇപ്പോഴും	DM_DMD
+പഠിക്കുന്ന	V_VM_VNF
+ഒരു		QT_QTF
+കുട്ടിതന്നെയാണ്	V_VAUX
+ഞാനെന്നെനിക്ക്	N_NN
+അവിടത്തെ	N_NST
+ഒരു		QT_QTF
+വിദ്യാര്ഥിയായിരുന്ന	V_VM_VNF
+അഭിമന്യുവിന്റെ	N_NN
+കൊലപാതകം	N_NN
+എന്നെ		PR_PRF
+സംബന്ധിച്ച്	PSP
+ഒരു		QT_QTF
+സഹപാഠിയുടെ	N_NN
+കൊലപാതകം	N_NN
+പോലെ		PSP
+%% 8 (47.06%) unknown tokens
+%% avg. 4.71 tags/token, 1.89 tags/known token
